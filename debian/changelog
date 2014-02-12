@@ -1,3 +1,15 @@
+x11proto-xf86bigfont (1.2.0-3) unstable; urgency=low
+
+  [ Julien Cristau ]
+  * Rename the build directory to not include DEB_BUILD_GNU_TYPE for no
+    good reason.  Thanks, Colin Watson!
+  * Remove myself from Uploaders
+
+  [ Steve Langasek ]
+  * Mark x11proto-xf86bigfont-dev Multi-Arch: foreign.
+
+ -- Steve Langasek <vorlon@debian.org>  Tue, 08 Nov 2011 18:55:15 -0800
+
 x11proto-xf86bigfont (1.2.0-2) unstable; urgency=low
 
   * Upload to unstable.
